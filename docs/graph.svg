@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 400" style="enable-background:new 0 0 800 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E99200;}
+	.st1{fill:#C97700;}
+	.st2{opacity:0.6;fill:none;stroke:#E99200;stroke-width:5;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'HelveticaLTStd-Bold';}
+	.st5{font-size:25.1459px;}
+	.st6{font-size:19.5822px;}
+	.st7{font-family:'HelveticaLTStd-Light';}
+	.st8{font-size:14.6523px;}
+	.st9{font-size:21.2501px;}
+	.st10{font-size:58.3533px;}
+</style>
+<g id="bolitas">
+	<g>
+		<path class="st0" d="M68.5,303.5c-6.1,0-11-4.9-11-11s4.9-11,11-11s11,4.9,11,11S74.6,303.5,68.5,303.5z"/>
+		<path class="st1" d="M68.5,283c5.2,0,9.5,4.3,9.5,9.5s-4.3,9.5-9.5,9.5s-9.5-4.3-9.5-9.5S63.3,283,68.5,283 M68.5,280
+			c-6.9,0-12.5,5.6-12.5,12.5S61.6,305,68.5,305S81,299.4,81,292.5S75.4,280,68.5,280L68.5,280z"/>
+	</g>
+	<g>
+		<path class="st0" d="M285.5,303.5c-6.1,0-11-4.9-11-11s4.9-11,11-11s11,4.9,11,11S291.6,303.5,285.5,303.5z"/>
+		<path class="st1" d="M285.5,283c5.2,0,9.5,4.3,9.5,9.5s-4.3,9.5-9.5,9.5s-9.5-4.3-9.5-9.5S280.3,283,285.5,283 M285.5,280
+			c-6.9,0-12.5,5.6-12.5,12.5s5.6,12.5,12.5,12.5s12.5-5.6,12.5-12.5S292.4,280,285.5,280L285.5,280z"/>
+	</g>
+	<g>
+		<path class="st0" d="M501.5,303.5c-6.1,0-11-4.9-11-11s4.9-11,11-11s11,4.9,11,11S507.6,303.5,501.5,303.5z"/>
+		<path class="st1" d="M501.5,283c5.2,0,9.5,4.3,9.5,9.5s-4.3,9.5-9.5,9.5s-9.5-4.3-9.5-9.5S496.3,283,501.5,283 M501.5,280
+			c-6.9,0-12.5,5.6-12.5,12.5s5.6,12.5,12.5,12.5s12.5-5.6,12.5-12.5S508.4,280,501.5,280L501.5,280z"/>
+	</g>
+	<g>
+		<path class="st0" d="M716.5,303.5c-6.1,0-11-4.9-11-11s4.9-11,11-11s11,4.9,11,11S722.6,303.5,716.5,303.5z"/>
+		<path class="st1" d="M716.5,283c5.2,0,9.5,4.3,9.5,9.5s-4.3,9.5-9.5,9.5s-9.5-4.3-9.5-9.5S711.3,283,716.5,283 M716.5,280
+			c-6.9,0-12.5,5.6-12.5,12.5s5.6,12.5,12.5,12.5s12.5-5.6,12.5-12.5S723.4,280,716.5,280L716.5,280z"/>
+	</g>
+</g>
+<g id="linea">
+	<path class="st2" d="M69,293c0,0,147.3-84,217-73c104.5,16.5,137,112,216,101s168.5-200.5,215-215"/>
+</g>
+<g id="textos">
+	<text transform="matrix(1 0 0 1 223.666 174.0469)" class="st3 st4 st5">15,893,130</text>
+	<text transform="matrix(1 0 0 1 6.666 247.0469)" class="st3 st4 st5">12,765,789</text>
+	<text transform="matrix(1 0 0 1 6.666 268.4287)" class="st3 st4 st6">2009</text>
+	<text transform="matrix(1 0 0 1 55.666 268.3369)" class="st3 st7 st8">Elección a Diputados</text>
+	<text transform="matrix(1 0 0 1 223.666 195.4287)" class="st3 st4 st6">2012</text>
+	<text transform="matrix(1 0 0 1 269.666 195.3369)" class="st3 st7 st8">Elección a Diputados</text>
+	<text transform="matrix(1 0 0 1 437.666 295.4287)" class="st3 st4 st6">2012</text>
+	<text transform="matrix(1 0 0 1 483.666 295.3369)" class="st3 st7 st8">Elección a Diputados</text>
+	<text transform="matrix(1 0 0 1 506.001 83.0449)" class="st3 st7 st9">Proyección de meta nacional</text>
+	<text transform="matrix(1 0 0 1 437.666 273.0469)" class="st3 st4 st5">11,638,671</text>
+	<text transform="matrix(1 0 0 1 506.001 52.8662)" class="st3 st4 st10">20,649,051</text>
+</g>
+</svg>

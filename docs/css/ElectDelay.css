@@ -1,0 +1,42 @@
+#dots {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+}
+
+.line {
+  display: flex;
+  flex-direction: row;
+  /* animation: fadein 1s ease-in 2s 1 forwards; */
+  display: inline-block;
+}
+
+.dot {
+  display: flex;
+  width: 15px;
+  height: 15px;
+  display: flex;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  float: left;
+}
+/* Animation */
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.dot.fill {
+   /* background-image: url('https://d30y9cdsu7xlg0.cloudfront.net/png/44909-200.png'); */
+   background-image: url('http://www.freeiconspng.com/uploads/account-boy-human-male-man-person-profile-icon--icon-search--13.png');
+   
+}
+
+.dot.empty {
+  background-image: url('http://www.freeiconspng.com/uploads/account-boy-human-male-man-person-profile-icon--icon-search--13.png');
+}

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 400" style="enable-background:new 0 0 800 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#1E2C56;}
+	.st2{fill:none;stroke:#A5A5A5;stroke-width:7;stroke-miterlimit:10;}
+	.st3{fill:#A5A5A5;stroke:#848484;stroke-width:3;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#92D050;stroke-width:7;stroke-miterlimit:10;}
+	.st5{fill:#92D050;stroke:#7BAD42;stroke-width:3;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#ED7D31;stroke-width:7;stroke-miterlimit:10;}
+	.st7{fill:#ED7D31;stroke:#C4682A;stroke-width:3;stroke-miterlimit:10;}
+	.st8{fill:#ED7D31;stroke:#D66D27;stroke-width:7;stroke-miterlimit:10;}
+	.st9{fill:#FFFFFF;}
+	.st10{font-family:'RobotoMedium';}
+	.st11{font-size:19.5211px;}
+	.st12{font-size:38.5342px;}
+</style>
+<g id="Capa_6" class="st0">
+	<rect class="st1" width="800" height="400"/>
+</g>
+<g id="lineaDiputados">
+	<path class="st2" d="M42.4,229.2c0,0,139.5-82.2,241.7-53.6s149.6,102.2,280.1,67.6s173.9-113.8,173.9-113.8"/>
+</g>
+<g id="bolasDiputados">
+	<circle class="st3" cx="49.8" cy="226.4" r="13.4"/>
+	<circle class="st3" cx="236" cy="175.6" r="13.4"/>
+	<circle class="st3" cx="453.4" cy="245.6" r="13.4"/>
+</g>
+<g id="lineaSenadores">
+	<path class="st4" d="M42.4,322.6c0,0,17.9-19.2,70.3,0s138.1,93.4,236.6,34.5S499,242,609,213.9s129.2-84.4,129.2-84.4"/>
+</g>
+<g id="bolasSenadores">
+	<circle class="st5" cx="49.8" cy="321.4" r="13.4"/>
+	<circle class="st5" cx="236" cy="377.6" r="13.4"/>
+	<circle class="st5" cx="453.4" cy="288.6" r="13.4"/>
+</g>
+<g id="lineaPresidente">
+	<path class="st6" d="M42.4,116.7c0,0,40.9-17.9,104.9,0s136.8,76.7,249.4,53.7s254.5-44.8,341.5-40.9"/>
+</g>
+<g id="bolasPresidente">
+	<circle class="st7" cx="49.8" cy="116" r="13.4"/>
+	<circle class="st7" cx="236" cy="151" r="13.4"/>
+	<circle class="st7" cx="453.4" cy="158.9" r="13.4"/>
+</g>
+<g id="bolaPrincipal">
+	<circle class="st8" cx="738.1" cy="129.4" r="29.5"/>
+</g>
+<g id="textosUno">
+	<text transform="matrix(1 0 0 1 42.3784 70.6997)" class="st9 st10 st11">13,579,718</text>
+	<text transform="matrix(1 0 0 1 42.3789 93.6997)" class="st9 st10 st11">2000 Presidente</text>
+	<text transform="matrix(1 0 0 1 36.3784 179.3742)" class="st9 st10 st11">13,579,718</text>
+	<text transform="matrix(1 0 0 1 36.3789 202.3742)" class="st9 st10 st11">2009 Diputados</text>
+	<text transform="matrix(1 0 0 1 36.3782 281.3742)" class="st9 st10 st11">13,579,718</text>
+	<text transform="matrix(1 0 0 1 36.3787 304.3742)" class="st9 st10 st11">2000 Senadores</text>
+</g>
+<g id="textosDos">
+	<text transform="matrix(1 0 0 1 249.3784 119.1639)" class="st9 st10 st11">9,301,441</text>
+	<text transform="matrix(1 0 0 1 249.3789 142.164)" class="st9 st10 st11">2006 Presidente</text>
+	<text transform="matrix(1 0 0 1 249.3782 197.1639)" class="st9 st10 st11">15,893,130</text>
+	<text transform="matrix(1 0 0 1 249.3787 220.164)" class="st9 st10 st11">2012 Diputados</text>
+	<text transform="matrix(1 0 0 1 249.3777 341.1639)" class="st9 st10 st11">11,629,727</text>
+	<text transform="matrix(1 0 0 1 249.3782 364.1639)" class="st9 st10 st11">2006 Senadores</text>
+</g>
+<g id="textosTres">
+	<text transform="matrix(1 0 0 1 453.3784 113.1639)" class="st9 st10 st11">18,199,880</text>
+	<text transform="matrix(1 0 0 1 453.3789 136.164)" class="st9 st10 st11">2012 Presidente</text>
+	<text transform="matrix(1 0 0 1 453.3779 205.9999)" class="st9 st10 st11">11,638,671</text>
+	<text transform="matrix(1 0 0 1 453.3784 228.9999)" class="st9 st10 st11">2015 Diputados</text>
+	<text transform="matrix(1 0 0 1 453.3774 318.1638)" class="st9 st10 st11">15,600,165</text>
+	<text transform="matrix(1 0 0 1 453.3779 341.1638)" class="st9 st10 st11">2012 Senadores</text>
+</g>
+<g id="textosFinal">
+	<text transform="matrix(1 0 0 1 540 39.8076)" class="st9 st10 st12">20,649,051</text>
+	<text transform="matrix(1 0 0 1 540 80.9502)" class="st9 st10 st12">Meta Nacional</text>
+</g>
+</svg>

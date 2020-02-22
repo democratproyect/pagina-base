@@ -1,0 +1,414 @@
+.menu{
+position: absolute;
+    z-index: 999;
+    background: white;
+    width: 30%;
+    right: 0;
+}
+
+.documentos{
+    position: absolute;
+        z-index: 999;
+        background: white;
+        width: 50%;
+        height: 100%;
+        left: 0;
+        overflow: scroll;
+        padding-left:100px;
+        padding-right:100px;
+    }
+    #sandwich {
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+      }
+      .sw-topper {
+        position: relative;
+        top: 0;
+        width: 100px;
+        height: 10px;
+        background: #fff;
+        border: none;
+        border-radius: 4px 4px 4px 4px;
+        transition: transform 0.5s, top 0.2s;
+      /* transition-delay: 0.2s, 0s; */
+      }
+      .sw-bottom {
+        position: relative;
+        width: 100px;
+        height: 10px;
+        top: 20px;
+        background: #fff;
+        border: none;
+        border-radius: 4px 4px 4px 4px;
+        transition: transform 0.5s, top 0.2s;
+        transition-delay: 0.2s, 0s;
+      }
+      /* #sandwich:hover .sw-topper {
+        top: 15px;
+        transform: rotate(140deg);
+      }
+      #sandwich:hover .sw-bottom {
+        top: 5px;
+        transform: rotate(-140deg);
+      } */
+      
+.logo{
+    width: 315px;
+    height: 46px;
+    /*border: 1px solid wheat;*/
+    position: fixed;
+    left: 50px;
+    z-index: 99;
+    top: 50px;
+    background-image: url('../imgs/logo.png');
+}
+
+.menu ul{
+	padding: 0;
+    text-align: center;
+}
+
+.menu li{
+	list-style: none;
+}
+
+.menu li div{
+
+    width: 100%;
+    height: 60px;
+    padding-top: 19px;
+    color: #333;
+    font-family: roboto-thin;
+    cursor: pointer;
+    transition:1s;
+    text-align: left;
+    padding-left: 15px;
+}
+.menu li div span{
+
+    padding: 6px 12px;    
+    border: 2px solid #ebebeb;
+    border-radius: 50px;
+    transition: border 1s;
+    
+}
+
+.menu li div:hover {
+
+        padding-left: 30px;
+    }
+
+.menu li div:hover  span{
+
+        border:2px solid teal;
+    }
+.txt-principal{
+    font-size: 30px;
+    color: white;
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 100px;
+    color:white;
+}
+
+.titulo-animate{
+    color:white;
+}
+.numero-slides{
+    position: absolute;
+    color: white;
+    z-index: 2;
+    position: fixed;
+    right: 70px;
+    top: 76px;
+}
+.relative{
+    position: relative;
+    z-index: 99;
+}
+
+.documentos{
+    display: none;
+}
+
+.menu{
+    display: none;
+}
+
+.videoPages{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: auto;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: 9990;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    /*background: url(polina.jpg) no-repeat;*/
+    background-size: cover;
+}
+.fullscreen-bg {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: auto;
+}
+.fullscreen-bg-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    min-width: 100%;
+    min-height: 100%;
+    opacity: 0.7;
+}
+.videoPages-2{
+    /*display:none;*/
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    /* width: 100%; */
+    height: auto;
+    min-width: 100%;
+    min-height: 100%;
+    /* z-index: 9990; */
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    /*background: url(polina.jpg) no-repeat;*/
+    background-size: cover;
+}
+
+/*
+
+.menu li div:active {
+
+	width: 100%;
+    height: 30px;
+
+}*/
+
+.btn-iconos {
+    color: rgb(255, 255, 255);
+    background-color: #2a3e4e;
+    /* border-color: #2b2b2b; */
+    border-radius: 250px;
+    padding: 20px;
+}
+
+.btn-iconos-rosa {
+    color:white;
+    background-color: #E61753;
+    /* border-color: #2b2b2b; */
+    border-radius: 250px;
+    padding: 20px;
+}
+
+.btn-iconos-verde {
+    color:white;
+    background-color: #009E43;
+    /* border-color: #2b2b2b; */
+    border-radius: 250px;
+    padding: 20px;
+}
+
+.btn-iconos-morado {
+    color: white;
+    background-color: #A22384;
+    /* border-color: #2b2b2b; */
+    border-radius: 250px;
+    padding: 20px 22px;
+}
+
+.fa-3x {
+    font-size: 1.5em !important;
+}
+
+.counter {
+    /* display: table-cell; */
+    margin:1.5%;
+    font-size:50px;
+    /* vertical-align: middle; */
+  }
+
+.btn-center{
+    position: absolute;
+    bottom: 40px;
+    left: 48%;
+}
+
+.container-modal2 {
+    max-width: 100%;
+    height: 580px;
+    margin: 0px auto;
+    font-family: 'Share Tech', sans-serif;
+    color: #444;
+}
+
+.mapa1{
+    background: url(../imgs/mapa.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border:0;
+
+}
+/* .img-transition{
+    height: 30%
+}
+.img-transition:hover{
+    height: 100%;
+    transition-property: height;
+    transition-duration: 0.5s;
+    transition-timing-function: linear, linear;
+    transition-delay: 0s ,0.5s, 0.5s;
+} */
+    
+
+.marker1{
+    position: absolute;
+    width: 11%;
+    top: 15%;
+    right: 0%;
+    transition: top 2s;
+
+}
+
+.marker2{
+    right: 22%;
+    position: absolute;
+    width: 90px;
+    top: 36%;
+}
+
+
+
+.marker3{
+    position: absolute;
+    width: 74px;
+    top: 29%;
+    right: 61%;
+}
+.marker4{
+    position: absolute;
+    width: 113px;
+    top: 29%;
+    right: 40%;
+}
+.marker5{
+    position: absolute;
+    width: 100px;
+    top: 14%;
+    right: 68%;
+}
+.marker6{
+    position: absolute;
+    /* top: 49%; */
+    top: 19%;
+    /* right: 75%; */
+    width: 80px;
+    right: 86%;
+    
+}
+.marker7{
+    position: absolute;
+    width: 72px;
+    top: 48%;
+    right: 29%;
+}
+  
+.marker8{
+    position: absolute;
+    width: 58px;
+    top: 37%;
+    right: 53%;
+
+}
+.marker9{
+    width: 65px;
+    top: 36%;
+    right: 58%;
+    position: absolute;
+
+
+}
+
+
+
+.letterGraph{
+    position: absolute;
+    left: 25%;
+    top: 45%;
+}
+
+
+.mapaDistritos{
+    /* padding-top: 80px; */
+    width: 62%;
+    margin-top: 35px;
+}
+@media (min-width: 1500px){
+    
+        .container22 {
+            width: 1580px;
+            max-width: 100%;
+            height: 680px;
+            padding: 0 10%;
+        }
+        .abajoBtn{
+            margin-top: 80px;
+        }
+        .container-modal2{
+            max-width: 100%;
+            height: 800px;     
+            margin: 0px auto;
+            font-family: 'Share Tech', sans-serif;
+            color: #444;    
+
+        
+        }
+        .mapa1{
+            background: url(../imgs/mapa.png);
+            background-repeat: no-repeat;
+            background-size: 100%;
+            border:0;
+        
+        }
+        .mapaR{
+            margin-top: 130px;
+        }
+        /* .img-transition{
+            height: 30%
+        }
+        .img-transition:hover{
+            height: 100%;
+            transition-property: height;
+            transition-duration: 0.5s;
+            transition-timing-function: linear, linear;
+            transition-delay: 0s ,0.5s, 0.5s;
+        } */
+            
+        
+     
+        
+    }
+.height-1000{
+    height: 1000px
+}
+.b-b-n{
+    border-bottom: none !important;
+}
+.b-t-n{
+    border-top: none !important;
+}

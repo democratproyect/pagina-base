@@ -1,0 +1,268 @@
+/*--------------TIPOGRAFÍAS--------------*/
+@font-face {
+    font-family:roboto-thin;
+    src: url(../fonts/Roboto-Thin.ttf);
+}
+@font-face {
+    font-family:roboto-thin-italic;
+    src: url(../fonts/Roboto-ThinItalic.ttf);
+}
+@font-face {
+    font-family:roboto-medium;
+    src: url(../fonts/Roboto-Medium.ttf);
+}
+@font-face {
+    font-family:roboto-regular;
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family:roboto-light;
+    src: url(../fonts/Roboto-Light.ttf);
+}
+@font-face {
+    font-family:roboto-bold;
+    src: url(../fonts/Roboto-Bold.ttf);
+}
+
+.titulos-grandes {
+    font-family:roboto-light;
+    color: white;
+    font-weight:normal; 
+    font-size: 80px;
+    text-align: center;
+    padding-top: 12%;
+}
+
+.titulos-big {
+    font-family:roboto-light;
+    color: white;
+    font-weight:normal; 
+    font-size: 100px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.titulos-medianos {
+    font-family: roboto-light;
+    color: white;
+    font-weight: normal;
+    font-size: 55px;
+    text-align: center !important;
+    padding-top: 18%;
+    text-align: justify;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.titulo-mediano {
+    font-family: roboto-light;
+    color: white;
+    font-weight: normal;
+    font-size: 55px;
+    text-align: center;
+}
+
+.titulos-grandes-seccion {
+    font-family:roboto-light;
+    color: white;
+    font-weight:normal; 
+    font-size: 80px;
+    text-align: center;
+}
+
+.datos-grafica {
+    font-family:roboto-light;
+    color: white;
+    font-weight:normal; 
+    font-size: 25px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.datos-grafica1 {
+    font-family:roboto-medium;
+    font-weight:normal; 
+    font-size: 20px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.subtitulos{
+    font-family:roboto-light;
+    font-size: 35px;
+    color: white;
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.citas{
+    font-family:roboto-bold;
+    font-size: 25px;
+    color: white;
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 50px;
+    /* padding-left: 640px; */
+}
+
+.titulos-grandes-n {
+    font-family:roboto-light;
+    color:black;
+    font-weight:normal; 
+    font-size: 80px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.titulos-medianos-n {
+    font-family: roboto-light;
+    color:black;
+    font-weight: normal;
+    font-size: 55px;
+    text-align: center;
+    padding-top: 230px;
+}
+
+.titulos-modal{
+    font-family: roboto-light;
+    color:black;
+    font-weight: normal;
+    font-size: 65px;
+    text-align: center;
+}
+
+.titulo-mediano-n{
+    font-family: roboto-light;
+    color:black;
+    font-weight: normal;
+    font-size: 55px;
+    text-align: center;
+}
+
+.titulos-grandes-seccion-n {
+    font-family:roboto-light;
+    color:black;
+    font-weight:normal; 
+    font-size: 80px;
+    text-align: center;
+}
+
+.datos-grafica-n {
+    font-family:roboto-medium;
+    color:black;
+    font-weight:normal; 
+    font-size: 25px;
+    text-align: center;
+    padding-top: 40px;
+}
+.datos-grafica-n-grand{
+    font-family:roboto-medium;
+    color:black;
+    font-weight:normal; 
+    font-size: 28px;
+    text-align: center;
+    padding-top: 40px;
+
+}
+.datos-grafica1-n {
+    font-family:roboto-medium;
+    color: black;
+    font-weight:normal; 
+    font-size: 20px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.subtitulos-n{
+    font-family:roboto-light;
+    font-size: 25px;
+    color: black;
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.citas-n{
+    font-family:roboto-thin-italic;
+    font-size: 25px;
+    color:black;
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-left: 640px;
+}
+
+.datos-distritos {
+    font-family: roboto-medium;
+    color: white;
+    font-weight: normal;
+    font-size: 55px;
+    text-align: center;
+    /* padding-left: 180px; */
+}
+.datos-clasi {
+    font-family: roboto-light;
+    font-size: 25px;
+    color: black;
+    width: 20%;
+    text-align: right;
+    margin: 0 auto;
+    padding-top: 20px;
+    display: inline
+}
+.datos-distritos-n {
+    font-family: roboto-medium;
+    color: black;
+    font-weight: normal;
+    font-size: 55px;
+    text-align: center;
+    /* padding-left: 180px; */
+}
+
+.text-roboto-medium {
+    font-family: roboto-medium;
+    color: black;
+    font-weight: normal;
+    font-size: 16px;
+}
+.text-roboto-thin{
+    font-family:roboto-light;
+    font-size: 16px;
+    color: black;
+}
+.only-roboto-thin{
+    font-family:roboto-light;
+}
+.only-roboto-regular{
+    font-family:roboto-regular;
+}
+.only-roboto-medium{
+    font-family: roboto-medium;
+}
+.font-s-18{
+    font-size: 18px;
+}
+.font-s-16{
+    font-size: 16px;
+}
+.font-s-12{
+    font-size: 12px;
+}
+.color-black{
+    color:black;
+}
+
+#skills span {
+    font-family: roboto-light !important;
+    top: -46px;
+    left: 2%;
+    position: relative;
+    font-size: 18px;
+    /* font-weight: bolder; */
+    color: #fff;
+}
